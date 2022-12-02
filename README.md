@@ -1,4 +1,3 @@
-# stepik_fullstackdeveloper
 echo "# stepik_fullstackdeveloper" >> README.md
 git init
 git add README.md
